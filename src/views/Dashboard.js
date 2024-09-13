@@ -26,7 +26,7 @@ import davila from "../assets/alumnos/dávila.jpeg"
 import castro from "../assets/alumnos/Castro.jpeg"
 import diego from "../assets/alumnos/Elizalde Barboza Diego Efren.jpeg"
 import evelyn from "../assets/alumnos/EvelynGallegos.jpg"
-import fer from "../assets/alumnos/Fernanda_Santillan.jpg"
+import mafe from "../assets/alumnos/Fernanda_Santillan.jpg"
 import haro from "../assets/alumnos/Haro.jpg"
 import hector from "../assets/alumnos/Hector.png"
 import jared from "../assets/alumnos/JaredFrias.jpg"
@@ -327,7 +327,7 @@ function Dashboard() {
                   className="simple-text logo-mini"
                 >
                   <div className="logo-img">
-                    <img src={fer} alt="react-logo" />
+                    <img src={mafe} alt="react-logo" />
                   </div>
                 </a>
               </CardFooter>
